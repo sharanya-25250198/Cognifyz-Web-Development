@@ -1,9 +1,11 @@
-# Cognifyz Web Development Internship - Level 1
+# Cognifyz Web Development Internship
 
-This project was created as part of the Web Development Internship offered by Cognifyz Technologies.
+This repository contains all tasks completed during my Web Development Internship at Cognifyz Technologies.
 
-## 📌 Features
+## 📌 Levels Completed
 
+### Level 1 – Basic Web Development Tasks
+Features:
 - Responsive Navigation Bar
 - Hero Section
 - Image Display
@@ -12,11 +14,43 @@ This project was created as part of the Web Development Internship offered by Co
 - Greeting Alert using JavaScript
 - Simple Calculator using JavaScript
 
-## 🛠️ Technologies Used
-
+Technologies Used:
 - HTML
 - CSS
 - JavaScript
+
+---
+
+### Level 2 – Intermediate Web Development Tasks
+Features:
+- Interactive UI Components
+- Form Validation
+- Dynamic Elements
+- Responsive Design
+
+Technologies Used:
+- HTML
+- CSS
+- JavaScript
+
+---
+
+### Level 3 – Weather App
+Features:
+- Search weather by city
+- Real-time temperature display
+- Humidity display
+- Wind speed display
+- Weather icon display
+- API integration
+
+Technologies Used:
+- HTML
+- CSS
+- JavaScript
+- Weather API
+
+---
 
 ## 📂 Project Structure
 
@@ -27,18 +61,34 @@ Cognifyz-Web-Development/
 │ ├── style.css
 │ └── script.js
 │
+├── Level2/
+│ ├── index.html
+│ ├── style.css
+│ └── script.js
+│
+├── Level3/
+│ ├── index.html
+│ ├── style.css
+│ └── script.js
+│
 └── README.md
 
-## 🚀 How to Run
+---
 
-1. Download the project
+## 🚀 Live Demo
+GitHub Pages:
+https://sharanya-25250198.github.io/Cognifyz-Web-Development/
+
+---
+
+## 🛠 How to Run
+
+1. Download or clone the repository
 2. Open in VS Code
-3. Run `index.html` using Live Server
+3. Run index.html using Live Server
 
-## 📸 Project Preview
+---
 
-This project demonstrates basic front-end development skills including webpage structure, styling, and JavaScript interactivity.
-
-## 👩‍💻 Developed By
-
+## 👩‍💻 Developed by
 Sharanya K
+Web Development Intern – Cognifyz Technologies
