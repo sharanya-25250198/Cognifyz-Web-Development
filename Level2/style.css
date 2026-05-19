@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, sans-serif;
+}
+
+/* Hero Section */
+.hero{
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    color: white;
+    padding: 100px 20px;
+}
+
+.hero h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+
+.hero p{
+    font-size: 20px;
+}
+
+/* Cards */
+.card img{
+    height: 220px;
+    object-fit: cover;
+}
+
+.card{
+    transition: transform 0.3s;
+    border: none;
+    border-radius: 10px;
+}
+
+.card:hover{
+    transform: translateY(-10px);
+}
+
+/* Navbar */
+.navbar-brand{
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.nav-link{
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+/* Responsive Design */
+@media(max-width:768px){
+
+    .hero h1{
+        font-size: 35px;
+    }
+
+    .hero p{
+        font-size: 18px;
+    }
+
+}
