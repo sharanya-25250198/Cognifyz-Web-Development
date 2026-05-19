@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cognifyz Web Development Internship - Level 1
 
 This project was created as part of the Web Development Internship offered by Cognifyz Technologies.
@@ -42,3 +43,6 @@ This project demonstrates basic front-end development skills including webpage s
 ## 👩‍💻 Developed By
 
 Sharanya K
+=======
+# Cognifyz-Web-Development
+>>>>>>> d7cbc582a844a916b2a78c60da113213bdcb090f
